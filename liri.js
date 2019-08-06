@@ -21,7 +21,7 @@ switch (actionArg) {
         if(valueLookup){
             spotifyThisSong(valueLookup);
          } else{
-            spotifyThisSong("The Sign");
+            spotifyThisSong("the sign ace of base");
          }
     break;
     case ('movie-this'):
